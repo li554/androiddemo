@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavedInstanceModel</string>
+    <string name="prefer_name">localData</string>
+    <string name="my_key">myKey</string>
+</resources>

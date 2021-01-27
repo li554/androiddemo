@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bgYellow">
+    <TextView
+        android:id="@+id/item_luck_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/luckFragName"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@drawable/partner_man"
+        android:padding="10dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/item_luck_tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="对于绝大部分白羊而言，2020都是比较艰难的一年，尽管付出了很多努力，但获得的收获却非常不尽如人意。步入2021，落座于双鱼和水瓶座的木星在白羊们的星图之上高照，你会拥有许多丰富多彩的创意和想法，也能够一步步地将它们落实到位，生活中遇到的挫折会在木星这颗吉星的帮助下顺利化解。但是，火星的火热能量却会让你在不同的领域变得有些急性子，既不容易有条理地做好事情，也比较容易恼羞成怒甚至发生争执。不妨试着让自己宽容一些，抱着“退一步海阔天空”的心态度过这一年吧。白羊座今年可佩戴一个星盘保岁吉宏项链作为全年的幸运护身符饰物，银币铸造的船舵星符可提升白羊们的能量指数，寓意今年信心十足、目标明确、勇往直前！"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:background="@drawable/partner_woman"/>
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kousuan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_title">Calculation Test</string>
+    <string name="title_start_btn">START GAME</string>
+    <string name="highest_score">HIGHEST SCORE:%d</string>
+    <string name="num_one" translatable="false">1</string>
+    <string name="num_two" translatable="false">2</string>
+    <string name="num_three" translatable="false">3</string>
+    <string name="num_four" translatable="false">4</string>
+    <string name="num_five" translatable="false">5</string>
+    <string name="num_six" translatable="false">6</string>
+    <string name="num_seven" translatable="false">7</string>
+    <string name="num_eight" translatable="false">8</string>
+    <string name="num_nine" translatable="false">9</string>
+    <string name="num_zero" translatable="false">0</string>
+    <string name="Clear">BACK</string>
+    <string name="Submit">OK</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="unknown" translatable="false">\?</string>
+    <string name="current_score">CURRETN SCORE:%d</string>
+    <string name="current_answer">YOUR ANSWER:</string>
+    <string name="lose_tip">SORRY</string>
+    <string name="final_score">FINAL SCORE:%d</string>
+    <string name="back_to_title">BACK</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="quit_dialog_title">Back Confirm?</string>
+    <string name="dialog_positive_msg">confirm</string>
+    <string name="dialog_negative_msg">cancel</string>
+    <string name="win_tip">CONGRATULATIONS</string>
+</resources>

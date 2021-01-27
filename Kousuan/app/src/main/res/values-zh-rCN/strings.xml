@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口算测试</string>
+    <string name="app_title">口算测试</string>
+    <string name="title_start_btn">开始游戏</string>
+    <string name="highest_score">历史最高：%d</string>
+    <string name="Clear">回退</string>
+    <string name="Submit">提交</string>
+    <string name="current_score">得分:%d</string>
+    <string name="current_answer">你的答案:</string>
+    <string name="final_score">最终得分:%d</string>
+    <string name="back_to_title">返回主页</string>
+    <string name="quit_dialog_title">确认离开？</string>
+    <string name="dialog_positive_msg">确认</string>
+    <string name="dialog_negative_msg">取消</string>
+    <string name="win_tip">恭喜创造新纪录！！！</string>
+    <string name="lose_tip" translatable="false">抱歉，您未打破记录</string>
+</resources>

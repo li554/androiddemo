@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>test</title>
+    <script type="text/javascript">
+        function testAlert(){
+            alert("this is an alert");
+        }
+        function testConfirm(){
+            var r = confirm("this is a confirm");
+            alert(r);
+        }
+        function testPrompt(){
+            var r = prompt("this is a prompt");
+            alert(r);
+        }
+        function loadAndroid(){
+            var a = window.animee.callFromJS("123");
+        }
+
+    </script>
+</head>
+<body>
+    <button onclick="testAlert()">testAlert</button>
+    <button onclick="testConfirm()">testConfirm</button>
+    <button onclick="testPrompt()">testPrompt</button>
+    <button onclick="loadAndroid()">加载安卓</button>
+</body>
+</html>
